@@ -1,0 +1,1 @@
+# Nuxt Content Blog Template
