@@ -1,0 +1,1 @@
+import t from"./ContentSlot.0af971bf.js";import{a as o,o as r,b as s,e as a}from"./entry.e84f2888.js";const c={},_={class:"rounded p-2 bg-green-200 dark:bg-green-800 text-green-800 dark:text-green-200"};function d(e,l){const n=t;return r(),s("div",_,[a(n,{use:e.$slots.default,unwrap:"p"},null,8,["use"])])}const p=o(c,[["render",d]]);export{p as default};
